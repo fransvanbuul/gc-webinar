@@ -1,11 +1,6 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
-#Demo cluster scripts
-login.sh
-create_cluster.sh
-delete_cluster.sh
-
 ### STS ###
 .apt_generated
 .classpath
